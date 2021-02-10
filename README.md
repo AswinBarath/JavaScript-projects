@@ -9,7 +9,7 @@
 ## Blogfolio:
 <strong>My Blogfolio website</strong>
 
-[Live Website](https://aswinbarath.github.io/)
+[Live Website](https://aswinbarath.github.io/)<br>
 [GitHub Repo][1]
 
 <p>
@@ -21,7 +21,7 @@
 ## Robofriends App:
 <strong>A fun little react app</strong>
 
-[Live Website](https://aswinbarath.github.io/robofriends/)
+[Live Website](https://aswinbarath.github.io/robofriends/)<br>
 [GitHub Repo][2]
 
 <p>
@@ -33,7 +33,7 @@
 ## SQL injection and Prevention project:
 <strong>Demonstrates SQL injection attacks using malicious SQL queries and SQL prevention techniques.</strong>
 
-[Live Website](https://sql-injection-and-prevention.herokuapp.com/)
+[Live Website](https://sql-injection-and-prevention.herokuapp.com/)<br>
 [GitHub Repo][3]
 
 <p align="center">
@@ -47,7 +47,7 @@
 ## Cool Cursor project
 <strong>A really cool cursor website made with canvas in javascript</strong>
 
-[Live Website](https://aswinbarath.github.io/Cool-cursor/)
+[Live Website](https://aswinbarath.github.io/Cool-cursor/)<br>
 [GitHub Repo][4]
 
 <p>
@@ -59,7 +59,7 @@
 ## Calender project:
 <strong>A dynamic calender implemented using jQuery</strong>
 
-[Live Website](https://aswinbarath.github.io/calendar-project/)
+[Live Website](https://aswinbarath.github.io/calendar-project/)<br>
 [GitHub Repo][5]
 
 <p>
