@@ -5,7 +5,6 @@
 <img src="JavaScript_Logo.jpg" alt="JavaScript-logo" />
 </p>
 
-<br> <br>
 
 ## Blogfolio:
 <strong>My Blogfolio website</strong>
@@ -14,7 +13,7 @@
 [GitHub Repo][1]
 
 <p>
-<img src="blogfolio.png" alt="blogfolio-logo" />
+<img src="blogfolio.png" alt="blogfolio-logo"  width="60%"/>
 </p>
 
 <br> <br>
@@ -26,7 +25,7 @@
 [GitHub Repo][2]
 
 <p>
-<img src="robofriends.png" alt="robofriends-logo" />
+<img src="robofriends.png" alt="robofriends-logo"  width="60%"/>
 </p>
 
 <br> <br>
@@ -39,7 +38,7 @@
 
 <p align="center">
 <a href="https://sql-injection-and-prevention.herokuapp.com/">
-<img src="./content/assets/readme/SQL-Injection.png" width="60%" alt="sql-injection-and-prevention" />
+<img src="SQL-Injection.png" width="60%" alt="sql-injection-and-prevention" />
 </a>
 </p>
 
@@ -52,7 +51,7 @@
 [GitHub Repo][4]
 
 <p>
-<img src="Cool-cursor.png" alt="Cool-cursor-logo" />
+<img src="Cool-cursor.png" alt="Cool-cursor-logo"  width="60%"/>
 </p>
 
 <br> <br>
@@ -64,7 +63,7 @@
 [GitHub Repo][5]
 
 <p>
-<img src="calender.png" alt="calender-logo" />
+<img src="calender.png" alt="calender-logo" width="60%" />
 </p>
 
 <br> <br>
