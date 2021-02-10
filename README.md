@@ -1,5 +1,7 @@
+<div align="center">
 # JavaScript-projects
 <strong>My index repository for all my javascript projects</strong>
+<div>
 
 <p>
 <img src="JavaScript_Logo.jpg" alt="JavaScript-logo" />
@@ -36,7 +38,7 @@
 [Live Website](https://sql-injection-and-prevention.herokuapp.com/)<br>
 [GitHub Repo][3]
 
-<p align="center">
+<p>
 <a href="https://sql-injection-and-prevention.herokuapp.com/">
 <img src="SQL-Injection.png" width="60%" alt="sql-injection-and-prevention" />
 </a>
