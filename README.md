@@ -1,7 +1,5 @@
 # JavaScript-projects
-<div align="center">
 <strong>My index repository for all my javascript projects</strong>
-</div>
 
 <p>
 <img src="JavaScript_Logo.jpg" alt="JavaScript-logo" />
